@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a news mobile app**
 
-- 🌱 I’m currently learning **about cybersecurity**
+- ⚛️ I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohdop?tab=repositories](https://github.com/mohdop?tab=repositories)
 
